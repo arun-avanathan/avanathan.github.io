@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title> - Blog</title>
+		<description>Posts categorized as 'blog'</description>
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.blog.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title type="html"><![CDATA[MathJax Example]]></title>
+				<link rel="alternate" type="text/html" href="http://localhost:4000/blog/mathjax-example/" />				
+				<description>&lt;p&gt;&lt;a href=&quot;http://www.mathjax.org/&quot;&gt;MathJax&lt;/a&gt; is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics &lt;code class=&quot;highlighter-rouge&quot;&gt;\[ ... \]&lt;/code&gt;, and the other for inline mathematics &lt;code class=&quot;highlighter-rouge&quot;&gt;\( ... \)&lt;/code&gt;.&lt;/p&gt;
+
+</description>
+				
+				<published>2015-08-10T12:08:50+00:00</published>
+				<updated>2015-08-10T12:08:50+00:00</updated>
+				<guid isPermaLink="true">http://localhost:4000/blog/mathjax-example/</guid>
+			</item>
+		
+			<item>
+				<title type="html"><![CDATA[Example of a post in blog category]]></title>
+				<link rel="alternate" type="text/html" href="http://localhost:4000/blog/views/blog-post-example/" />				
+				<description>Excerpt for post in blog category</description>
+				<updated>2014-11-16T20:39:00+01:00</updated>
+				<published>2014-09-28T22:20:00+00:00</published>
+				<guid isPermaLink="true">http://localhost:4000/blog/views/blog-post-example/</guid>
+			</item>
+		
+			<item>
+				<title type="html"><![CDATA[Hello World]]></title>
+				<link rel="alternate" type="text/html" href="http://localhost:4000/blog/hello-world/" />				
+				<description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code class=&quot;highlighter-rouge&quot;&gt;-w&lt;/code&gt; switch) to see your changes!
+To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+
+</description>
+				<updated>2016-06-01 18:19:19 +0000</updated>
+				<published>2014-08-08T19:39:55+00:00</published>
+				<guid isPermaLink="true">http://localhost:4000/blog/hello-world/</guid>
+			</item>
+		
+	</channel>
+</rss>

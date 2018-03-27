@@ -1,0 +1,171 @@
+[
+
+  
+		{
+		  "title"      : "TimelineJs integration example",
+		  "category"   : "",
+		  "tags"       : "timeline, examples, and music",
+		  "url"        : "http://localhost:4000/music/timelinejs-example/",
+		  "date"       : "2017-01-24 20:15:00 +0000",
+		  "shortdate"  : "January 24, 2017",
+		  "excerpt"     : "The following page demonstrates how to integrate Knight Lab’s TimelineJs on your blog. The original data is stored as xml file on this repository, and they are automatically loaded and parsed via javascript."
+		} ,
+  
+
+  
+		{
+		  "title"      : "Example of a post in music category",
+		  "category"   : "",
+		  "tags"       : "tag1, tag2, and tag3",
+		  "url"        : "http://localhost:4000/music/music-post-example/",
+		  "date"       : "2016-07-02 11:58:00 +0000",
+		  "shortdate"  : "July 02, 2016",
+		  "excerpt"     : "Excerpt for a post in music category"
+		} ,
+  
+
+  
+		{
+		  "title"      : "MathJax Example",
+		  "category"   : "",
+		  "tags"       : "tag2",
+		  "url"        : "http://localhost:4000/blog/mathjax-example/",
+		  "date"       : "2015-08-10 12:08:50 +0000",
+		  "shortdate"  : "August 10, 2015",
+		  "excerpt"     : "MathJax is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics \[ ... \], and the other for inline mathematics \( ... \)."
+		} ,
+  
+
+  
+		{
+		  "title"      : "Example of a post in stories category",
+		  "category"   : "",
+		  "tags"       : "tag3",
+		  "url"        : "http://localhost:4000/stories/story-post-example/",
+		  "date"       : "2015-05-16 23:30:00 +0000",
+		  "shortdate"  : "May 16, 2015",
+		  "excerpt"     : "Example of  a story post. Logo is hidden"
+		} ,
+  
+
+  
+		{
+		  "title"      : "Example of a post in blog category",
+		  "category"   : "",
+		  "tags"       : "tag2",
+		  "url"        : "http://localhost:4000/blog/views/blog-post-example/",
+		  "date"       : "2014-09-28 22:20:00 +0000",
+		  "shortdate"  : "September 28, 2014",
+		  "excerpt"     : "Excerpt for post in blog category"
+		} ,
+  
+
+  
+		{
+		  "title"      : "Hello World",
+		  "category"   : "",
+		  "tags"       : "tag3",
+		  "url"        : "http://localhost:4000/blog/hello-world/",
+		  "date"       : "2014-08-08 19:39:55 +0000",
+		  "shortdate"  : "August 08, 2014",
+		  "excerpt"     : "You’ll find this post in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes!To add new posts, simply add a file in the _posts directory that follows the convention: YYYY-MM-DD-name-of-post.ext."
+		} ,
+  
+
+  
+		{
+		  "title"      : "Override Author Byline Test Post",
+		  "category"   : "",
+		  "tags"       : "sample-post, readability, and test",
+		  "url"        : "http://localhost:4000/stories/author-override/",
+		  "date"       : "2014-06-19 00:00:00 +0000",
+		  "shortdate"  : "June 19, 2014",
+		  "excerpt"     : "An article to test overriding the default site author."
+		} ,
+  
+
+  
+		{
+		  "title"      : "Syntax Highlighting Post",
+		  "category"   : "",
+		  "tags"       : "sample-post, code, and highlighting",
+		  "url"        : "http://localhost:4000/stories/code-highlighting-post/",
+		  "date"       : "2013-08-16 00:00:00 +0000",
+		  "shortdate"  : "August 16, 2013",
+		  "excerpt"     : "Demo post displaying the various ways of highlighting code in Markdown."
+		} ,
+  
+
+  
+		{
+		  "title"      : "Sample Link Post",
+		  "category"   : "",
+		  "tags"       : "sample-post and link-post",
+		  "url"        : "http://localhost:4000/stories/sample-link-post/",
+		  "date"       : "2013-08-12 00:00:00 +0000",
+		  "shortdate"  : "August 12, 2013",
+		  "excerpt"     : "Example and code for using link posts."
+		} ,
+  
+
+  
+		{
+		  "title"      : "A Post with a Video",
+		  "category"   : "",
+		  "tags"       : "sample-post and video",
+		  "url"        : "http://localhost:4000/stories/video-post/",
+		  "date"       : "2013-06-25 00:00:00 +0000",
+		  "shortdate"  : "June 25, 2013",
+		  "excerpt"     : "Custom written post descriptions are the way to go... if you're not lazy."
+		} ,
+  
+
+  
+		{
+		  "title"      : "Post with Large Feature Image and Text",
+		  "category"   : "",
+		  "tags"       : "sample-post and readability",
+		  "url"        : "http://localhost:4000/stories/readability-feature-post/",
+		  "date"       : "2013-05-23 00:00:00 +0000",
+		  "shortdate"  : "May 23, 2013",
+		  "excerpt"     : "Custom written post descriptions are the way to go... if you're not lazy."
+		} ,
+  
+
+  
+		{
+		  "title"      : "A Post with Images",
+		  "category"   : "",
+		  "tags"       : "sample-post, images, and test",
+		  "url"        : "http://localhost:4000/stories/sample-post-images/",
+		  "date"       : "2013-05-22 00:00:00 +0000",
+		  "shortdate"  : "May 22, 2013",
+		  "excerpt"     : "Examples and code for displaying images in posts."
+		} ,
+  
+
+  
+		{
+		  "title"      : "Testing Readability with a Bunch of Text",
+		  "category"   : "",
+		  "tags"       : "sample-post, readability, test, and intro",
+		  "url"        : "http://localhost:4000/stories/readability-post/",
+		  "date"       : "2012-05-22 00:00:00 +0000",
+		  "shortdate"  : "May 22, 2012",
+		  "excerpt"     : "A ton of text to test readability."
+		} ,
+  
+
+  
+		{
+		  "title"      : "Sample Post",
+		  "category"   : "",
+		  "tags"       : "sample-post",
+		  "url"        : "http://localhost:4000/stories/sample-post/",
+		  "date"       : "2011-03-10 00:00:00 +0000",
+		  "shortdate"  : "March 10, 2011",
+		  "excerpt"     : "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+		} 
+  
+
+]

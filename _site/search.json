@@ -1,0 +1,211 @@
+[
+
+  
+    {
+      "title"         : "TimelineJs integration example",
+      "link"          : "http://localhost:4000/music/timelinejs-example/",
+      "date"        : "January 24, 2017",
+      "excerpt"   : "The following page demonstrates how to integrate Knight Lab’s TimelineJs on your blog. The original data is stored as xml file on this repository, and they are automatically loaded and parsed via javascript.",
+      "category" : "music",
+      "categories" : "music",
+      "tags"        : "timeline examples music"
+    }
+  
+
+  
+    ,{
+      "title"         : "Example of a post in music category",
+      "link"          : "http://localhost:4000/music/music-post-example/",
+      "date"        : "July 02, 2016",
+      "excerpt"   : "Excerpt for a post in music category",
+      "category" : "music",
+      "categories" : "music",
+      "tags"        : "tag1 tag2 tag3"
+    }
+  
+
+  
+    ,{
+      "title"         : "MathJax Example",
+      "link"          : "http://localhost:4000/blog/mathjax-example/",
+      "date"        : "August 10, 2015",
+      "excerpt"   : "MathJax is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics  ... , and the other for inline mathematics  ... .",
+      "category" : "blog",
+      "categories" : "blog",
+      "tags"        : "tag2"
+    }
+  
+
+  
+    ,{
+      "title"         : "Example of a post in stories category",
+      "link"          : "http://localhost:4000/stories/story-post-example/",
+      "date"        : "May 16, 2015",
+      "excerpt"   : "Example of  a story post. Logo is hidden",
+      "category" : "stories",
+      "categories" : "stories",
+      "tags"        : "tag3"
+    }
+  
+
+  
+    ,{
+      "title"         : "Example of a post in blog category",
+      "link"          : "http://localhost:4000/blog/views/blog-post-example/",
+      "date"        : "September 28, 2014",
+      "excerpt"   : "Excerpt for post in blog category",
+      "category" : "blog",
+      "categories" : "blog views",
+      "tags"        : "tag2"
+    }
+  
+
+  
+    ,{
+      "title"         : "Hello World",
+      "link"          : "http://localhost:4000/blog/hello-world/",
+      "date"        : "August 08, 2014",
+      "excerpt"   : "You’ll find this post in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes!To add new posts, simply add a file in the _posts directory that follows the convention: YYYY-MM-DD-name-of-post.ext.",
+      "category" : "blog",
+      "categories" : "blog",
+      "tags"        : "tag3"
+    }
+  
+
+  
+    ,{
+      "title"         : "Override Author Byline Test Post",
+      "link"          : "http://localhost:4000/stories/author-override/",
+      "date"        : "June 19, 2014",
+      "excerpt"   : "An article to test overriding the default site author.",
+      "category" : "stories",
+      "categories" : "stories",
+      "tags"        : "sample-post readability test"
+    }
+  
+
+  
+    ,{
+      "title"         : "Syntax Highlighting Post",
+      "link"          : "http://localhost:4000/stories/code-highlighting-post/",
+      "date"        : "August 16, 2013",
+      "excerpt"   : "Demo post displaying the various ways of highlighting code in Markdown.",
+      "category" : "stories",
+      "categories" : "stories",
+      "tags"        : "sample-post code highlighting"
+    }
+  
+
+  
+    ,{
+      "title"         : "Sample Link Post",
+      "link"          : "http://localhost:4000/stories/sample-link-post/",
+      "date"        : "August 12, 2013",
+      "excerpt"   : "Example and code for using link posts.",
+      "category" : "stories",
+      "categories" : "stories",
+      "tags"        : "sample-post link-post"
+    }
+  
+
+  
+    ,{
+      "title"         : "A Post with a Video",
+      "link"          : "http://localhost:4000/stories/video-post/",
+      "date"        : "June 25, 2013",
+      "excerpt"   : "Custom written post descriptions are the way to go… if you’re not lazy.",
+      "category" : "stories",
+      "categories" : "stories",
+      "tags"        : "sample-post video"
+    }
+  
+
+  
+    ,{
+      "title"         : "Post with Large Feature Image and Text",
+      "link"          : "http://localhost:4000/stories/readability-feature-post/",
+      "date"        : "May 23, 2013",
+      "excerpt"   : "Custom written post descriptions are the way to go… if you’re not lazy.",
+      "category" : "stories",
+      "categories" : "stories",
+      "tags"        : "sample-post readability"
+    }
+  
+
+  
+    ,{
+      "title"         : "A Post with Images",
+      "link"          : "http://localhost:4000/stories/sample-post-images/",
+      "date"        : "May 22, 2013",
+      "excerpt"   : "Examples and code for displaying images in posts.",
+      "category" : "stories",
+      "categories" : "stories",
+      "tags"        : "sample-post images test"
+    }
+  
+
+  
+    ,{
+      "title"         : "Testing Readability with a Bunch of Text",
+      "link"          : "http://localhost:4000/stories/readability-post/",
+      "date"        : "May 22, 2012",
+      "excerpt"   : "A ton of text to test readability.",
+      "category" : "stories",
+      "categories" : "stories",
+      "tags"        : "sample-post readability test intro"
+    }
+  
+
+  
+    ,{
+      "title"         : "Sample Post",
+      "link"          : "http://localhost:4000/stories/sample-post/",
+      "date"        : "March 10, 2011",
+      "excerpt"   : "Just about everything you’ll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more.",
+      "category" : "stories",
+      "categories" : "stories",
+      "tags"        : "sample-post"
+    }
+  
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+]
