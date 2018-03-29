@@ -49,4 +49,4 @@ excerpt_separator: "\n\n\n\n"
 plugins: [jekyll-paginate]
 paginate: 6
 
-theme: jekyll-theme-modernist
+theme: jekyll-theme-hacker
